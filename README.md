@@ -1,5 +1,10 @@
 # zsh in windows
 
+This guide shows you how to install a nice Cmder terminal in Windows,
+with cygwin-zsh and a context-menu button to open the terminal in that path.
+
+## how-to
+
 1. Insall cygwin, cmder and zsh via this guide
  (pdf of the webpage is also in the repo):
 
