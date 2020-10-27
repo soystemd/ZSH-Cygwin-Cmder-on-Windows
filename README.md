@@ -1,8 +1,8 @@
-# zsh in windows
+# zsh on windows
 
-This guide shows you how to install a nice Cmder terminal in Windows,
-with cygwin-zsh and a context-menu button to open the terminal in
-any path that you desire.
+This guide shows you how to install a nice **Cmder** terminal in Windows,
+with **cygwin** and **zsh** (the zoomer shell) as the backend, and a **context-menu button**
+to open the terminal anywhere, in any folder that you desire.
 
 ## how-to
 
