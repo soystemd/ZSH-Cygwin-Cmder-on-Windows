@@ -12,7 +12,7 @@ to open the terminal anywhere, in any folder that you desire.
 (pdf of the webpage is also available in the repo)
 
 2. Clone the repo and copy the `zsh-here` folder to `C:\cygwin64`
-3. Add this to the top of your .zshrc or .bashrc or whatever:
+3. Put these lines at the top of your .zshrc file:
 
 ```bash
     # cd to the path cygwin was launched from
