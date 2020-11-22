@@ -1,5 +1,7 @@
 # zsh on windows
 
+THIS IS OUTDATED, USE THIS INSTEAD: [autistic-tools](https://github.com/soystemd/autistic-tools)
+
 This guide shows you how to install a nice **Cmder** terminal in Windows,
 with **cygwin** and **zsh** (the zoomer shell) as the backend, and a **context-menu button**
 to open the terminal anywhere, in any folder that you desire.
